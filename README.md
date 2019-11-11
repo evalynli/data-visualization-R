@@ -3,11 +3,11 @@
 
 # 1 
 
-![Data Visualization 1](EarningsSSize.png "State w/ the greatest number of 4-year (Dartmouth-like) institutions")
+![Data Visualization 1](figures/EarningsSSize.png "State w/ the greatest number of 4-year (Dartmouth-like) institutions")
 
 # 2 
 
-![Data Visualization 2](Top10Economies.png "Top 10 Economies")
+![Data Visualization 2](figures/Top10Economies.png "Top 10 Economies")
 
 *Both the United States and China have large GDPs, but the US has greater GDP per capita and China’s GDP growth rate increased more dramatically from years 1976 to 2016.*
 
