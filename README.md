@@ -1,4 +1,4 @@
-# Some data visualisations I've made
+# Some Data Visualizations I made
 ## Evalyn Li
 
 # 1 
